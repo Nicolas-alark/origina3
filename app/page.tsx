@@ -16,7 +16,7 @@ export default function Home() {
         </Link>
 
         <Link
-          href="/pagina2"
+          href="/2048_juego"
           className="bg-green-500 hover:bg-green-600 text-white font-semibold py-3 rounded-lg text-center transition"
         >
           🎮 Página 2
